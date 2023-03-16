@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working in Cure.Fit(Cult.Fit).
 
-- 🌱 I’m currently React, HTML, CSS.
+- 🌱 I’m currently learning React, HTML, CSS.
 
 - 👯 I’m looking for fun.
 
