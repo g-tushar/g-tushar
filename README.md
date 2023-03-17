@@ -45,13 +45,13 @@
   
 [![@algoristy's Holopin board](https://holopin.me/algoristy)](https://holopin.io/@algoristy)
  
-| ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=g-tushar&show_icons=true&theme=tokyonight) | ![Tushar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g-tushar&theme=tokyonight) |
+<!-- | ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=g-tushar&show_icons=true&theme=tokyonight) | ![Tushar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g-tushar&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-tushar&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=g-tushar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
  </p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=g-tushar&theme=gruvbox" />
+<img src="https://github-profile-trophy.vercel.app/?username=g-tushar&theme=gruvbox" /> -->
  
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
