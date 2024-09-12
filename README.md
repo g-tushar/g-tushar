@@ -6,7 +6,6 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=g-tushar.g-tushar)
 [![Github](https://img.shields.io/github/followers/g-tushar?label=Follow&style=social)](https://github.com/g-tushar)
 
 <div size='20px'> Hi! My name is Tushar Gupta aka Algoristy. Thank You for taking the time to view my GitHub Profile :smile: 
