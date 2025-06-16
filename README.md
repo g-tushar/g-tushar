@@ -18,11 +18,9 @@
 
 - 🔭 I’m currently working in Cure.Fit(Cult.Fit).
 
-- 🌱 I’m currently learning React, HTML, CSS.
+- 🌱 I’m currently learning almost every coding language.
 
 - 👯 I’m looking for fun.
-
-- 💬 Talk to me about Flutter, Competitve Programming, C, C++, Python, Open Source 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p float="left">
@@ -35,8 +33,8 @@
 <a href = 'https://www.github.com/g-tushar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   <a href = 'https://www.facebook.com/profile.php?id=100007887737954'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
   <a href = 'https://www.instagram.com/tushar_gupta9800/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
-  <a href = 'https://codeforces.com/profile/tushargupta9800'> <img width = '32px' align= 'center' src="https://codeforces-upsolving-helper.herokuapp.com/static/images/codeforces-icon.png"/></a>
-  <a href = 'https://www.codechef.com/users/algoristy'> <img width = '80px' align= 'center' src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"/></a>
+  <a href = 'https://codeforces.com/profile/tushargupta9800'> <img width = '80px' align= 'center' src="https://codeforces.org/s/42002/images/codeforces-sponsored-by-ton.png"/></a>
+  <a href = 'https://www.codechef.com/users/algoristy'> <img width = '80px' align= 'center' src="https://cdn.codechef.com/images/cc-logo.svg"/></a>
   <a href = 'https://leetcode.com/tushargupta9800/'> <img width = '32px' align= 'center' src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"/></a>
 <br>
 <br>
@@ -61,4 +59,4 @@
 -----
 Credits: [Tushar Gupta](https://github.com/g-tushar)
 
-Last Edited on: 16/03/2023
+Last Edited on: 16/06/2025
